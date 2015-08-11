@@ -1,1 +1,1 @@
-# zsh_aliases
+# Zsh aliases
